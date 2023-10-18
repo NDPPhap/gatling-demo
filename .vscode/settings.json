@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "user-files\\requests",
+        "user-files\\scenarios",
+        "user-files\\simulations"
+    ],
+    "cSpell.words": [
+        "javaapi",
+        "petstore"
+    ]
+}
